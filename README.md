@@ -3,6 +3,7 @@
 - 👀 I’m interested in mobile development and mobile innovation.
 - 🌱 I’m currently learning animations in Flutter and Jetpack Compose.
 - 💞️ I’m a collaborator @ [Code Clube Votuporanga](http://codeclube.inf.br/)
+- 🏳️‍🌈 Member of the LGBTQIA+ community, strong and proud!
 
 
 ## 📱 Connect with me:
