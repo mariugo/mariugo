@@ -26,7 +26,3 @@
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> &nbsp; 
 <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> &nbsp; 
 
-## :chart: My GitHub Status
-![Mariugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariugo&theme=dark&show_icons=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariugo&theme=dark&show_icons=true&locale=en&layout=compact" alt="mariugo"/></p>
-
